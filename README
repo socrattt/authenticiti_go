@@ -1,9 +1,7 @@
---------
-
 To Run and Test:
 
     1. Install go.
-    2. Run the following commands (from the current directory):
+    2. Run the following commands from the current directory:
        $ source master.sh
        $ install
     3. Run any of the other displayed commands.
